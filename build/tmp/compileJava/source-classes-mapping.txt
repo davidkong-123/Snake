@@ -1,0 +1,5 @@
+ca/uwaterloo/cs349/Snake.java
+ ca.uwaterloo.cs349.Snake
+ ca.uwaterloo.cs349.Snake$1
+ ca.uwaterloo.cs349.Snake$2
+ ca.uwaterloo.cs349.Snake$SCENES
