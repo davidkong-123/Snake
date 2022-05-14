@@ -12,3 +12,5 @@ Description:
 The snake game has three level, with 1 the lowest and 3 the highest. Player can move the snake by left and right arrow key.
 More instructions can be seen once the game is started.
 For the snake and the fruit, I fill the circle with some pictures I find online to fill it to make the game look better.
+
+![level2](https://user-images.githubusercontent.com/57188393/168403025-87051a14-5ea6-4d46-9f63-7bc583adcc87.jpg)
